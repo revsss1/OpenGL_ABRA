@@ -1,0 +1,4 @@
+-lopengl32
+-lfreeglut
+-lglu32
+-lglew32
